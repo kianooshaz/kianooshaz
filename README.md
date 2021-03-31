@@ -10,7 +10,7 @@ Hi! I am Kianoosh, a fourth semester student of computer science, Go language an
 <a href="https://www.linkedin.com/in/kianooshaz/">
   <img align="left" alt="Kianoosh Ashayeri Zade 's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
