@@ -13,7 +13,7 @@ Hi! I am Kianoosh, a fourth semester student of computer science, Go language an
 <br>
 
 ## 🔧 Technologies & Tools
- <img align="right" alt="GIF" src=" https://github.com/kianooshaz/kianooshaz/images/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src=" https://github.com/kianooshaz/kianooshaz/master/images/code.gif?raw=true" width="500" height="320" />
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Goland-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
