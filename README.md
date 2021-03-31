@@ -24,4 +24,14 @@ Hi! I am Kianoosh, a fourth semester student of computer science, Go language an
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
+main.go  🌱
+```go
+package main  
+    import "fmt"
+    
+    func main() {
+	    fmt.Println("Welcome to my profile.")
+    }
+```
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianooshaz&theme=default&line_height=27&layout=compact" />
