@@ -2,8 +2,6 @@
 
 <img  alt="wallpaper" src="https://github.com/kianooshaz/kianooshaz/blob/main/images/golang-wallpaper.jpg"/>
 
-![](https://raw.githubusercontent.com/kianooshaz/kianooshaz/master/images/golang-wallpaper.jpg)
-
 Hi! I am Kianoosh, a fourth semester student of computer science, Go language and back-end developer. I have one year of Laravel framework experience and started the go language in the summer of 2020, learning new technologies, high-performance programming, good standards of ability code that I try to have. Effort is my most important motto and I never get tired
 
 <a href="https://twitter.com/kianooshaz">
