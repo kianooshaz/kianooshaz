@@ -1,5 +1,7 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,<a href="https://github.com/kianooshaz"> I'm Kianoosh </a>
 
+<img  alt="wallpaper" src="https://github.com/kianooshaz/kianooshaz/blob/main/images/golang-wallpaper.jpg"/>
+
 ![](https://raw.githubusercontent.com/kianooshaz/kianooshaz/master/images/golang-wallpaper.jpg)
 
 Hi! I am Kianoosh, a fourth semester student of computer science, Go language and back-end developer. I have one year of Laravel framework experience and started the go language in the summer of 2020, learning new technologies, high-performance programming, good standards of ability code that I try to have. Effort is my most important motto and I never get tired
@@ -13,7 +15,7 @@ Hi! I am Kianoosh, a fourth semester student of computer science, Go language an
 <br>
 
 ## 🔧 Technologies & Tools
-<img align="right" alt="GIF" src="https://github.com/kianooshaz/kianoosh/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/kianooshaz/kianooshaz/blob/main/images/code.gif?raw=true" width="500" height="320" />
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Goland-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
