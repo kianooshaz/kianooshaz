@@ -1,6 +1,6 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,<a href="https://github.com/kianooshaz"> I'm Kianoosh </a>
 
-<img  alt="wallpaper" src="https://github.com/kianooshaz/kianooshaz/blob/main/images/golang-wallpaper.jpg"/>
+<img align="center" alt="wallpaper" src="https://github.com/kianooshaz/kianooshaz/blob/main/images/golang-wallpaper.jpg"/>
 
 Hi! I am Kianoosh, a fourth semester student of computer science, Go language and back-end developer. I have one year of Laravel framework experience and started the go language in the summer of 2020, learning new technologies, high-performance programming, good standards of ability code that I try to have. Effort is my most important motto and I never get tired
 
@@ -23,3 +23,5 @@ Hi! I am Kianoosh, a fourth semester student of computer science, Go language an
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianooshaz&theme=default&line_height=27&layout=compact" />
