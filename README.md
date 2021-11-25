@@ -2,8 +2,6 @@
 
 <img align="center" alt="wallpaper" src="https://github.com/kianooshaz/kianooshaz/blob/main/images/golang-wallpaper.jpg"/>
 
-Hi! I am Kianoosh
-
 <a href="https://twitter.com/kianooshaz">
   <img align="left" alt="Kianoosh Ashayeri Zade | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
